@@ -52,4 +52,8 @@ export default function MaleniaPage() {
             </div>
           </motion.div>
         </main>
+      </div>
+    </div>
+  )
+}
  
